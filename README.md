@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/mt8163/android_vendor_amazon_mt8163) 
+
 ### Building
 
 The build process is quite long and requires fair knowledge of Linux and its command line.
